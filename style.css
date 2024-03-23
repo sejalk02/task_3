@@ -1,0 +1,33 @@
+
+
+.images{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10%;
+    width: 30vw;
+    height: 50vh;
+
+   
+
+    
+    
+}
+
+.button{
+    box-sizing: border-box;
+    display:block;
+    margin: auto;
+    padding: 2vw 31.4vh;
+    background:linear-gradient(to right, #f3ae00ea, #4fea12ba);
+    color: white;
+    width: 20vw;
+    height: 10vh;
+    position: relative;
+    text-align:center;
+    font-size: 15px;
+    white-space:nowrap;
+
+    
+    
+}
